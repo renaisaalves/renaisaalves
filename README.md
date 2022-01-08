@@ -4,6 +4,11 @@
 🤍 Em breve, quero trabalhar com a linguagem JavaScript e seus frameworks! </br>
 🖤 Além disso, estou estudando lógica de programação com Python.
 
+<div>
+  <a href="https://github.com/renaisaalves"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=renaisaalves&show_icons=true&theme=omni"/>
+</div>
+
 📧 Entre em contato:
 
 <a href="https://github.com/renaisaalves" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>

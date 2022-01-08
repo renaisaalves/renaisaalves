@@ -8,3 +8,6 @@ Entre em contato:
 
 📧 Email: renaisaalves@gmail.com <br>
 🔗 LinkedIn: https://www.linkedin.com/in/renaisa-alves/
+
+<a href="https://github.com/renaisaalves/Python-CursoemVideo" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></a>
+

@@ -6,7 +6,6 @@
 
 <div>
   <a href="https://github.com/renaisaalves"></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=renaisaalves&show_icons=true&theme=omni"/>
 </div>
 
 📧 Entre em contato:

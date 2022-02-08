@@ -8,7 +8,7 @@
   <a href="https://github.com/renaisaalves"></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact)](https://github.com/renaisaalves/github-readme-stats)
 
 📧 Entre em contato:
 

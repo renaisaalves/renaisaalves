@@ -1,12 +1,14 @@
 ## Sejam bem vindos ao meu perfil do GitHub! 
 
-🖤 Atualmente, estou estudando algumas tecnologias Front-End, HTML/CSS. <br/>
-🤍 Em breve, quero trabalhar com a linguagem JavaScript e seus frameworks! </br>
-🖤 Além disso, estou estudando lógica de programação com Python.
+🖤 Engenharia da Computação. <br/>
+🤍 Estudando lógica de programação com Python. </br>
+🖤 Dando algumas arriscadas em HTML/CSS.
 
 <div>
   <a href="https://github.com/renaisaalves"></a>
 </div>
+
+👩‍💻 Principais tecnologias:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact)](https://github.com/renaisaalves/github-readme-stats)
 

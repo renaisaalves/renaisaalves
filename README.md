@@ -10,7 +10,7 @@
 
 👩‍💻 Principais tecnologias:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact)](https://github.com/renaisaalves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact&theme=dracula)](https://github.com/renaisaalves/github-readme-stats)
 
 📧 Entre em contato:
 

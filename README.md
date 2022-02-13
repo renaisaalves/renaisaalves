@@ -1,8 +1,8 @@
 ## Sejam bem vindos ao meu perfil do GitHub! 
 
 🖤 Engenharia da Computação. <br/>
-🤍 Estudando lógica de programação com Python. </br>
-🖤 Dando algumas arriscadas em HTML/CSS.
+🤍 Python, HTML/CSS JavaScript. </br>
+🖤 ... soso. 
 
 <div>
   <a href="https://github.com/renaisaalves"></a>

@@ -1,18 +1,18 @@
-## Sejam bem vindos ao meu perfil do GitHub! 
+## GitHub! 
 
-🖤 Engenharia da Computação. <br/>
-🤍 Python, HTML/CSS JavaScript. </br>
+🖤 Computer engineering. <br/>
+🤍 Python, HTML/CSS, JavaScript. </br>
 🖤 ... soso. 
 
 <div>
   <a href="https://github.com/renaisaalves"></a>
 </div>
 
-👩‍💻 Principais tecnologias:
+👩‍💻 Main technologies:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact&theme=dracula)](https://github.com/renaisaalves/github-readme-stats)
 
-📧 Entre em contato:
+📧 Contact:
 
 <a href="https://github.com/renaisaalves" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/renaisa-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

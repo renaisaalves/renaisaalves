@@ -2,7 +2,7 @@
 
 🖤 Computer engineering. <br/>
 🤍 Python, HTML/CSS, JavaScript. </br>
-🖤 ... soso. 
+🖤 ... Java. 
 
 <div>
   <a href="https://github.com/renaisaalves"></a>

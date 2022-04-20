@@ -7,7 +7,6 @@
 <div>
   <a href="https://github.com/renaisaalves"></a>
 </div>
-
 👩‍💻 Main technologies:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact&theme=dracula)](https://github.com/renaisaalves/github-readme-stats)

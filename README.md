@@ -3,7 +3,6 @@
 🖤 Computer engineering. <br/>
 🤍 Python, HTML/CSS, JavaScript. </br>
 🖤 Coming soon... Java. 
- 
 <div>
   <a href="https://github.com/renaisaalves"></a>
 </div>

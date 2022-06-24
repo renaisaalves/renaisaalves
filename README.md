@@ -1,11 +1,9 @@
-## GitHub! 
+# Welcome
 
-🖤 Computer engineering. <br/>
-🤍 Python, HTML/CSS, JavaScript. </br>
-🖤 Coming soon... Java. 
-<div>
-  <a href="https://github.com/renaisaalves"></a>
-</div>
+❋ Computer engineering. <br/>
+❋ Tecnologies: <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact)
 
 📧 Contact:
 

@@ -1,7 +1,7 @@
 # Welcome
 
--❋- Computer engineering. <br/>
--❋- Tecnologies: <br>
+❋ Computer engineering. <br/>
+❋ Tecnologies: <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact)
 

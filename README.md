@@ -1,6 +1,6 @@
 # Welcome
 
-❋ Computer engineering. <br/>
+❋ Developer. <br/>
 ❋ Tecnologies: <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaisaalves&layout=compact)
